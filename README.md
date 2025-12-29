@@ -358,23 +358,6 @@ CLI does not need to be ran as Administrator.
 
 </details>
 
-## Donate
-
-If you enjoy using the Lenovo Legion Toolkit, consider donating.
-
-[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=22AZE2NBP3HTL)
-
-<img src="LenovoLegionToolkit.WPF/Assets/Donate/paypal_qr.png" width="200" alt="PayPal QR code" />
-
-## Credits
-
-Special thanks to:
-
-* [ViRb3](https://github.com/ViRb3), for creating [Lenovo Controller](https://github.com/ViRb3/LenovoController), which was used as a base for this tool
-* [falahati](https://github.com/falahati), for creating [NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) and [WindowsDisplayAPI](https://github.com/falahati/WindowsDisplayAPI)
-* [SmokelessCPU](https://github.com/SmokelessCPU), for help with 4-zone RGB and Sprectrum keyboard support
-* [Mario Bălănică](https://github.com/mariobalanica), for all contributions
-* [Ace-Radom](https://github.com/Ace-Radom), for all contributions
 
 Translations provided by:
 * Bulgarian - [Ekscentricitet](https://github.com/Ekscentricitet)
